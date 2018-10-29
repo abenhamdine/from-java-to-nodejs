@@ -1,9 +1,10 @@
 # java-to-typescript  
 Ressources to migrate Entreprise applications from Java to Typescript
 
-## Comparison between the two languages
+## Comparison between the two languages / code styles
 
 - https://www.beyondjava.net/comparing-typescript-java
+- https://www.linkedin.com/pulse/why-majority-embrace-nodejs-troy-collinsworth/  
 
 ## Misc
 
