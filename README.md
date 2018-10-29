@@ -1,5 +1,4 @@
-# java-to-typescript  
-Ressources to migrate Entreprise applications from Java to Typescript
+# Ressources to migrate Entreprise applications from Java to Typescript
 
 ## Comparison between the two languages / code patterns  
 
