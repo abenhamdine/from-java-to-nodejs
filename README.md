@@ -8,6 +8,10 @@
 -[Video: Let's type - A practical introduction to TypeScript for Java Developers by Nils Hartmann
 ](https://www.youtube.com/watch?v=IadZyDwfwWI)
 
+### About the inheritance vs composition debate
+
+- https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4  
+
 ## Entreprise frameworks
 
 ### Comparison between Java Entreprise Frameworks and nodejs entreprise frameworks
