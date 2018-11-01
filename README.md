@@ -1,4 +1,4 @@
-# Ressources to migrate Entreprise applications from a Java to a nodejs/Typescript stack
+# Ressources to migrate Entreprise applications from a J2EE stack to a nodejs/Typescript stack
 
 ## Comparison between the two languages / code patterns  
 
